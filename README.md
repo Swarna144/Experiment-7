@@ -54,8 +54,8 @@ int main(){
     return 0;
 }
 ```
-```
 7a(max&min)
+```
 #include<iostream>
 using namespace std;
 int main(){
@@ -81,8 +81,8 @@ int main(){
     cout<<"Maximum: "<<max<<endl<<"Minimum: "<<min;
 }
 ```
-```
 7b(search element)
+```
 #include<iostream>
 using namespace std;
 int main() {
@@ -108,8 +108,8 @@ cout<<"Element is present: "<<count<<" times";
 }
 }
 ```
-```
 7c
+```
 #include <iostream>
 using namespace std;
 int main() {
@@ -135,8 +135,8 @@ cout << "Their Average = " << average << endl;
 return 0;
 }
 ```
-```
 7d
+```
 #include<iostream>
 using namespace std;
 int main() {
@@ -154,8 +154,8 @@ avg = sum/5;
 cout<<"Average = "<<avg;
 }
 ```
-```
 7e(palindrome)
+```
 #include<iostream>
 #include<string>
 using namespace std;
@@ -178,8 +178,8 @@ cout<<a<<" is not palindrome";
 }
 }
 ```
-```
 7f(printing the number in reverse)
+```
 #include<iostream>
 #include<string>
 using namespace std;
